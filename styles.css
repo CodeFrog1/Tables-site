@@ -1,5 +1,12 @@
 body.Index{
     background-color:lightgray;
+    animation-name:ex;
+    animation-duration:10s;
+}
+
+@keyframes ex{
+    from{background-color:lightgray;}
+    to{background-color:brown;}
 }
 
 h2.Index{
