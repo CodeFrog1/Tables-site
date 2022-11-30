@@ -1,0 +1,31 @@
+body.Index{
+    background-color:lightgray;
+}
+
+h2.Index{
+    text-align:center;
+    font-size:5vw;
+}
+
+table.Index{
+    border-style:groove;
+    font-size:3vw;
+}
+
+tr.Index{
+    background-color:darkgray;
+    border-style:none;
+}
+
+td{
+    border-style:ridge;
+}
+
+img.Index{
+    margin-left:32vw;
+}
+
+p.Index{
+    text-align:center;
+    font-size:5vw;
+}
